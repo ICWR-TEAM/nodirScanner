@@ -1,5 +1,6 @@
 # <p align="center">NoDirScanner</p>
-![carbon (10)](https://github.com/ICWR-TEAM/nodirScanner/assets/45759837/dc94801e-63ca-4325-a136-ddbaf0391eda)
+![carbon (10)](https://github.com/ICWR-TEAM/nodirScanner/assets/45759837/c3babe50-ae1f-4e96-8a26-3ceb446c4819)
+
 
 <p>This tool is used to help you, one of which is in the field of hacking, such as scanning sensitive files.</p>
 
@@ -20,4 +21,4 @@
 ```
 
 # License
-![68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f4e61657265656e2f5374726170446f776e2e6a732e737667](https://github.com/ICWR-TEAM/nodirScanner/assets/45759837/b97773d3-68f9-43ea-813b-f22ccfeb698a)
+![68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f4e61657265656e2f5374726170446f776e2e6a732e737667](https://github.com/ICWR-TEAM/nodirScanner/assets/45759837/3b0399d0-6d0d-4dd9-8a2d-be69d670ae69)
