@@ -6,7 +6,7 @@ const dir = fs.readFileSync("./wl.txt","utf8"); //change Wordlist
 const split_dir = dir.split("\n");
 
 console.log("=====================================")
-console.log("              DirBuster              ")
+console.log("          Directory Scanner          ")
 console.log("=====================================")
 
 
