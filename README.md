@@ -1,5 +1,6 @@
 # <p align="center">NoDirScanner</p>
-![carbon (10)](https://github.com/ICWR-TEAM/nodirScanner/assets/45759837/c3babe50-ae1f-4e96-8a26-3ceb446c4819)
+
+![carbon (11)](https://github.com/ICWR-TEAM/nodirScanner/assets/45759837/aac9eb9f-bacb-4d57-8a17-035931cd659e)
 
 
 <p>This tool is used to help you, one of which is in the field of hacking, such as scanning sensitive files.</p>
