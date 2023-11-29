@@ -1,0 +1,18 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "main": "dirbuster.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "prompt-sync": "^4.2.0",
+    "request-promise-native": "^1.0.9",
+    "url": "^0.11.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
